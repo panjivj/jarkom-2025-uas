@@ -2,4 +2,4 @@
 Source Code Project UAS Jaringan komputer
 
 Terkait Dokumentasi project dapat dilihat pada video presentasi berikut:
-(https://drive.google.com/drive/folders/1NlhQPoZBypYeiqIFejJ5s9Gz_8KyEfZI?usp=sharing)
+(https://drive.google.com/file/d/1oGEf6KDH1en69x-_nIfLyJpsNoz-Xklo/view?usp=drive_link)
